@@ -222,8 +222,8 @@
     { img: 'uploads/enforcado-1.jpg', motivo: 'da sua paciência comigo' },
     { img: 'uploads/the-lovers-3.jpg', motivo: 'de como você me faz sentir em casa' },
     { img: 'uploads/enforcado-2.jpg', motivo: 'de você existir do meu lado' },
-    { img: 'uploads/the-lovers-4.jpg', motivo: 'de cantar música ruim alta com você' },
-    { img: 'uploads/enforcado-3.jpg', motivo: 'de ver o mundo de cabeça pra baixo com você' }
+    { img: 'uploads/the-lovers-4.jpg', motivo: 'do jeito que você é atenciosa, gentil e cuidadosa com as palavras' },
+    { img: 'uploads/enforcado-3.jpg', motivo: 'do jeito que você me apoia e sempre me alegra' }
   ];
 
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) =>
